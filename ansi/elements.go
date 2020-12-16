@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	east "github.com/yuin/goldmark-emoji/ast"
-	"github.com/yuin/goldmark/ast"
-	astext "github.com/yuin/goldmark/extension/ast"
+	"github.com/mrthankyou/goldmark/ast"
+	astext "github.com/mrthankyou/goldmark/extension/ast"
 )
 
 // ElementRenderer is called when entering a markdown node.

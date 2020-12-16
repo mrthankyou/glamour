@@ -7,10 +7,10 @@ import (
 
 	"github.com/muesli/termenv"
 	east "github.com/yuin/goldmark-emoji/ast"
-	"github.com/yuin/goldmark/ast"
-	astext "github.com/yuin/goldmark/extension/ast"
-	"github.com/yuin/goldmark/renderer"
-	"github.com/yuin/goldmark/util"
+	"github.com/mrthankyou/goldmark/ast"
+	astext "github.com/mrthankyou/goldmark/extension/ast"
+	"github.com/mrthankyou/goldmark/renderer"
+	"github.com/mrthankyou/goldmark/util"
 )
 
 // Options is used to configure an ANSIRenderer.

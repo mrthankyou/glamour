@@ -10,10 +10,10 @@ import (
 	"github.com/muesli/termenv"
 	"github.com/yuin/goldmark"
 	emoji "github.com/yuin/goldmark-emoji"
-	"github.com/yuin/goldmark/extension"
-	"github.com/yuin/goldmark/parser"
-	"github.com/yuin/goldmark/renderer"
-	"github.com/yuin/goldmark/util"
+	"github.com/mrthankyou/goldmark/extension"
+	"github.com/mrthankyou/goldmark/parser"
+	"github.com/mrthankyou/goldmark/renderer"
+	"github.com/mrthankyou/goldmark/util"
 
 	"github.com/mrthankyou/glamour/ansi"
 )
